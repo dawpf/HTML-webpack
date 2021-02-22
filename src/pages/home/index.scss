@@ -1,0 +1,25 @@
+body {
+  margin: 0 auto;
+  // max-width: 750px;
+}
+
+.container {
+  .box {
+    width: 187.5px;
+    height: 187.5px;
+    background-color: red;
+    text-align: center;
+    line-height: 187.5px;
+    font-size: 30px;
+    border: 10px solid #000;
+  }
+  .box2 {
+    margin-top: 20px;
+    width: 50%;
+    height: 2rem;
+    background-color: green;
+    text-align: center;
+    line-height: 187px;
+    font-size: 30px;
+  }
+}
